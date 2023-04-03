@@ -1,5 +1,5 @@
 
-#Serverless API
+# Serverless API with DynamoDB
 
 This service uses serverless Framework to create Lambda functions and exposes endpoints via API Gateway. Data are stored in DynamoDB.
 
